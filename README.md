@@ -1,6 +1,6 @@
 # SatQuMA_UI
 
-INTRODUCTION
+**INTRODUCTION**
 
 User Interface (V1) to support interaction with SatQuMA. The version for SatQuMA used is a bespoke version 
 that enables users to write values for three parameters. These parameters are:
@@ -25,13 +25,14 @@ Further tabs will be added to increase functionality. If you have any suggestion
 send them to jasminder.sidhu@strath.ac.uk.
 
 
-RUNNING SATQUMA_UI
+**RUNNING SATQUMA_UI**
 
 TKinter is an open-source package supported by Python. A current download of Python 3 will have all the 
 supporting packages required to run SatQuMA_UI.
 
 Download the root directory and run main.py. This will generate a UI that runs SatQuMA.
 
-BUGS and COMMENTS
+
+**BUGS and COMMENTS**
 
 Please report any bugs or comments to jasminder.sidhu@strath.ac.uk.
