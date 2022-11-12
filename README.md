@@ -22,7 +22,7 @@ System Properties: All transmitter and receiver parameters, and
 Resources: A list of resources for background material.
 
 Further tabs will be added to increase functionality. If you have any suggestions for improvements, please 
-send them to jasminder.sidhu@strath.ac.uk.
+send them to jsmdrsidhu@gmail.com.
 
 
 **RUNNING SATQUMA_UI**
@@ -35,4 +35,4 @@ Download the root directory and run main.py. This will generate a UI that runs S
 
 **BUGS and COMMENTS**
 
-Please report any bugs or comments to jasminder.sidhu@strath.ac.uk.
+Please report any bugs or comments to jsmdrsidhu@gmail.com.
